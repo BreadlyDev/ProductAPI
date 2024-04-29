@@ -1,4 +1,4 @@
 db.sqlite3
 .idea
-user/migrations
-product/migrations
+#user/migrations
+#product/migrations
